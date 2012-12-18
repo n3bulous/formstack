@@ -20,7 +20,5 @@ Gem::Specification.new do |s|
     "test/helper.rb",
      "test/formstack_test.rb"
   ]
-
-  s.add_bundler_dependencies
 end
 
