@@ -8,11 +8,11 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.required_rubygems_version = ">= 1.3.6"
   s.authors = ["Wynn Netherland"]
-  s.date = %q{2010-05-23}
+  s.date = %q{2012-12-18}
   s.description = %q{Wrapper for the Formstack API}
-  s.email = %q{wynn.netherland@gmail.com}
+  s.email = %q{kmcfadden@gmail.com}
   s.files = Dir.glob("{lib}/**/*")
-  s.homepage = %q{http://github.com/pengwynn/formstack}
+  s.homepage = %q{http://github.com/n3bulous/formstack}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.6}
   s.summary = %q{Wrapper for the Formstack API}
