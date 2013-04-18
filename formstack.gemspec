@@ -6,8 +6,8 @@ require 'formstack/version'
 Gem::Specification.new do |gem|
   gem.name          = "formstack"
   gem.version       = Formstack::VERSION
-  gem.authors       = ["Wynn Netherland", "Kevin McFadden"]
-  gem.email         = ["wynn.netherland@gmail.com", "kmcfadden@gmail.com"]
+  gem.authors       = ["Wynn Netherland"]
+  gem.email         = ["wynn.netherland@gmail.com"]
   gem.description   = %q{Wrapper for the Formstack API}
   gem.summary       = %q{Wrapper for the Formstack API}
   gem.homepage      = "http://github.com/pengwynn/formstack"
