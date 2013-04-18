@@ -18,7 +18,8 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_dependency 'hashie', '~> 1.2'
-  gem.add_dependency 'httparty', '~> 0.10'
+  # ~> not compatible with rake 0.8.7
+  gem.add_dependency 'httparty', '0.10.2'
 
   gem.add_development_dependency "shoulda", "~> 2.10"
   gem.add_development_dependency "jnunemaker-matchy"
